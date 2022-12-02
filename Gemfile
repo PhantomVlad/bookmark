@@ -72,5 +72,5 @@ group :test do
 end
 
 gem :production do
-  gem "pg"
+  gem 'pg'
 end
